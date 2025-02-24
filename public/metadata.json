@@ -1,0 +1,50 @@
+[
+  {
+    "user": "user1",
+    "imagePath": "/uploads/image_1740392822733.png",
+    "description": "The image displays a brief biography of Donald Trump, the 45th President of the United States, with his birthdate, occupation, and party affiliation. The text is written in black, blue, and gray font on a white background.\n\n**Biography:**\n\n*   **Name:** Donald John Trump\n*   **Birthdate:** June 14, 1946\n*   **Occupation:** American politician, media personality, and businessman\n*   **Party Affiliation:** Republican\n*   **Presidency:** 45th President of the United States\n\nThe image provides a concise overview of Donald Trump's life and career, highlighting his key positions and affiliations.",
+    "timestamp": 1740392822733
+  },
+  {
+    "user": "user2",
+    "imagePath": "/uploads/image_1740392841547.png",
+    "description": "The image displays a Wikipedia article about Donald Trump, with a white background and black text. The text is formatted in a large font with blue highlights.\n\n**Paragraph 1:**\nBorn in New York City, Trump graduated from the University of Pennsylvania in 1968 with a bachelor's degree in economics. He became president of his family's real estate business in 1971, renamed it the Trump Organization, and began acquiring and building skyscrapers, hotels, casinos, and golf courses. After a series of bankruptcies in the 1990s and 2000s, he began side ventures. From 2004 to 2015, he hosted the reality television show The Apprentice. A political outsider, Trump won the 2016 presidential election against Democratic nominee Hillary Clinton.\n\n**Paragraph 2:**\nTrump's campaign focused on anti-globalization and anti-immigration policies, as well as a promise to \"drain the swamp\" in Washington D.C. He was inaugurated as the 45th president of the United States on January 20, 2017. His presidency has been marked by controversy and polarization, with many critics accusing him of violating ethical norms and engaging in authoritarian behavior. Despite this, he has maintained a strong base of support among his loyal followers, who see him as a champion of American values and a defender of traditional culture.",
+    "timestamp": 1740392841547
+  },
+  {
+    "user": "user3",
+    "imagePath": "/uploads/image_1740392885528.png",
+    "description": "The image displays a Wikipedia page about Barack Obama II, the 44th President of the United States.\n\n*   **Title**: The title of the page is \"Barack Hussein Obama II\" in bold black text.\n    *   The title includes a footnote that provides additional information about Obama's birthdate.\n*   **Text**: The text below the title provides an overview of Obama's life and career.\n    *   It mentions that he was the first African-American president in U.S. history and that he previously served as a U.S. senator representing Illinois from 2005 to 2008 and as an Illinois state senator from 1997 to 2004.\n*   **Background**: The background of the image is white.\n\nOverall, the image provides a brief summary of Barack Obama's life and career, highlighting his notable achievements as the first African-American president in U.S. history.",
+    "timestamp": 1740392885528
+  },
+  {
+    "user": "user1",
+    "imagePath": "/uploads/image_1740395721058.jpg",
+    "description": "The image presents a notebook page filled with handwritten notes, primarily in blue ink, on a white background with grey horizontal lines. The page is dated 23/12/24 at the top left corner and features a title \"Asymmetric Notations\" in blue ink.\n\nThe handwritten notes cover topics such as:\n\n• Asymmetric notations\n• Set definitions\n• Big O properties\n\nThe text is written in a clear and legible manner, suggesting that it may be from a student's textbook or study notes. The overall appearance of the page indicates that it has been used for note-taking purposes.\n\nThe image provides a glimpse into the content of the notebook page, showcasing the student's notes on asymmetric notations, set definitions, and big O properties.",
+    "timestamp": 1740395721058
+  },
+  {
+    "user": "user2",
+    "imagePath": "/uploads/image_1740395751830.jpg",
+    "description": "The image depicts a ceiling-mounted projector in a room with a white ceiling and fluorescent lighting. The projector is white and has a long cord attached to it, which is plugged into the ceiling. It is mounted on a white bracket that is secured to the ceiling tiles. The ceiling is made up of square tiles, and there are several lights installed in it. In the top left corner of the image, there is a smoke detector. The background of the image shows a beige wall with a window or door frame. The overall atmosphere of the image suggests a classroom or meeting room setting.",
+    "timestamp": 1740395751830
+  },
+  {
+    "user": "user1",
+    "imagePath": "/uploads/image_1740396894831.jpg",
+    "description": "The image displays a handwritten note on lined paper, featuring equations and mathematical notation. The note appears to be a set of definitions and properties related to asymptotic notations, likely from a computer science or mathematics course.\n\nThe note is written in blue ink and includes several equations, such as:\n\n* Big O notation: f(n) ≤ k*f(n) + n ≥ n\n* Big Θ notation: k, B(n) ≤ C(n) ≤ k2, B(n) + n ≥ n\n* Set definitions: O(n^2) = {n^2, n^3, ...} Ω(n^2) = {0, 1, n, ...}\n* Asymptotic notations belong to a set\n* Big O properties:\n\t+ c(n) ≥ O(f(n)) → k(n) ≥ O(f(n))\n\t+ c1(n)C2(n) ≥ O(f(n)) → c1(n) ≥ O(f(n)) and c2(n) ≥ O(f(n))\n\t+ c1(n) + c2(n) ≥ max{g(n), B(n)} → c1(n) ≥ O(g(n)) and c2(n) ≥ O(B(n))\n\nThe note also includes a section on Mathematical Induction, which includes the following equation:\n\n* 13c + 20 ≤ 20(c+1) → 13c ≤ 20c\n\nOverall, the note provides a concise overview of asymptotic notations and their properties, along with a brief introduction to mathematical induction.",
+    "timestamp": 1740396894831
+  },
+  {
+    "user": "user2",
+    "imagePath": "/uploads/image_1740396927011.jpg",
+    "description": "The image depicts a projector mounted on the ceiling of a room, likely an office or conference space. The purpose of the image is to showcase the projector's installation.\n\n* A projector is mounted on the ceiling:\n\t+ The projector is centered in the image.\n\t+ It has a white body with various buttons and ports.\n\t+ A cord connects the projector to a nearby outlet.\n* The projector has a white body with buttons and ports:\n\t+ The buttons are located on the front of the projector.\n\t+ The ports are likely used for connecting cables to the projector.\n\t+ The white color of the projector matches the ceiling tiles.\n* There is a smoke detector in the top-left corner:\n\t+ The smoke detector is round and white.\n\t+ It has a small LED light in the center.\n\t+ It is attached to the ceiling tile above the projector.\n\nThe image suggests that the projector is installed in a professional setting, such as an office or conference room, where presentations and meetings are common. The presence of a smoke detector in the image indicates that the room is designed to be safe and secure.",
+    "timestamp": 1740396927011
+  },
+  {
+    "user": "user3",
+    "imagePath": "/uploads/image_1740396965419.jpg",
+    "description": "The image shows a hand holding a spiral-bound notebook with handwritten notes, likely from a computer science or mathematics class. The notebook is open to a page with a list of equations and definitions related to machine learning and optimization problems.\n\n*   The notebook is held by a hand in the bottom-left corner of the image.\n*   The notebook has a white cover with black lines and a yellow polka-dot pattern on the right side.\n*   The handwriting is in blue ink and appears to be written in an organized and structured manner.\n*   The content of the notebook includes:\n    *   A list of definitions related to machine learning, including \"Support Vector Machines\" and \"Supervised Machine Learning Algorithm\".\n    *   A list of equations related to optimization problems, including \"Linear Indicators Function\" and \"Hypothesis\".\n    *   A list of constraints and optimization problems, including \"Constraints\" and \"Optimization Problem\".\n\nOverall, the image suggests that the notebook belongs to a student or researcher who is working on a project related to machine learning and optimization problems.",
+    "timestamp": 1740396965419
+  }
+]
